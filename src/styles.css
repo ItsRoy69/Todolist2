@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  margin-left: 350px;
+}
+body {
+  background-color: #3d9970;
+}
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: aliceblue;
+  font-style: italic;
+  font-size: 10vh;
+}
+.css-input {
+  border-width: 2px;
+  border-color: #cccccc;
+  border-style: solid;
+  padding: 11px;
+  font-size: 22px;
+  border-radius: 15px;
+  background-color: #ffc2ff;
+}
+button {
+  margin: 5px;
+  color: wheat;
+  background-color: black;
+  margin-top: 20px;
+  font-style: sans-serif;
+  border-radius: 20px;
+  font-size: 3vh;
+  padding: 1.2em;
+}
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+svg {
+  position: relative;
+  top: 300px;
+}
+li {
+  font-family: sans-serif;
+  width: 200px;
+  font-size: 5vh;
+  color: black;
+}
+.linkss {
+  width: 200px;
+}
